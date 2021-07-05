@@ -13,7 +13,7 @@
     * Solicite el importe a convertir a Pesetas.
     * Muestre el resultado e inmediatamente después pida si quiere continuar o no con el cáculo.
     * Si se indica que si que pida nuevamente un importe a convertir, si indica que no que se despida y finalice.
-    * Notas: Para poder tener el valor de la conversión de pesetas a euros en una variable constante (Variable que no varía su contenido) y con decimales tendrás que colocarlo de la siguiente manera "`Definir nombre_variable Como Real`", en programación las comas de los decimales es al estilo inglés, (o sea con punto(.) en vez de coma(,)) y por último el valor de 1 euro a pesetas usado fue de 166.39pts por 1€.
+    > Notas: Para poder tener el valor de la conversión de pesetas a euros en una variable constante (Variable que no varía su contenido) y con decimales tendrás que colocarlo de la siguiente manera "`Definir nombre_variable Como Real`", en programación las comas de los decimales es al estilo inglés, (o sea con punto(.) en vez de coma(,)) y por último el valor de 1 euro a pesetas usado fue de 166.39pts por 1€.
     El ejercicio tendrá que quedar de la siguiente manera:
 
 ![Ejercicio chungo](resources/ejercicio_6.png)
